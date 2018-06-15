@@ -2,7 +2,9 @@
 
 多输入框短信验证码, 添加了错误动画
 
-##gif
+## gif
+
+
  <img src="http://static.zybuluo.com/Rookie/njx7svbv6hfurvj8xeq0sdu0/aaa.gif"/>
 
 ## 使用
